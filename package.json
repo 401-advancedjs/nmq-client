@@ -9,6 +9,7 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
+    "@nmq/q": "^1.0.3",
     "jest": "^23.6.0"
   }
 }
