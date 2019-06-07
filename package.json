@@ -2,7 +2,7 @@
   "name": "events-lab",
   "version": "1.0.0",
   "description": "Events Lab",
-  "main": "app.js",
+  "main": "logger.js",
   "scripts": {
     "test": "jest --verbose --coverage",
     "lint": "eslint **/*.js",
