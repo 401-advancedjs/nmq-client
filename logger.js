@@ -1,7 +1,9 @@
 'use strict';
 
 /**
- * console logs either successful message saved or error
+ * console logs every event
+ * Includes: read, update, create, delete from db
+ * read/write file and all errors
  * @module logger.js
  * */
 

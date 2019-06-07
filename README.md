@@ -1,37 +1,21 @@
 ![CF](http://i.imgur.com/7v5ASc8.png) LAB
 =================================================
 
-## Socket.io
+## Q Server - Logger Client
 
 ### Author: Melissa Stock
 
 ### Links and Resources
-* [submission PR](https://github.com/401-advancedjs/socket-io/pull/1)
-* [travis](https://www.travis-ci.com/401-advancedjs/socket-io)
+* [submission PR](https://github.com/401-advancedjs/nmq-client/pull/1)
+* [travis](https://www.travis-ci.com/401-advancedjs/nmq-client)
 
 #### Documentation
 * [jsdoc](https://jsdoc.app/)
 
 ### Modules
-#### `read-write.js`
-#### `constants.js`
-#### `events.js`
-#### `app.js`
-#### `server.js`
 #### `logger.js`
+#### `events.js`
 
-##### Exported Values and Methods
-
-###### `read(file) -> buffer`
-
-###### `upperCase(buffer) -> buffer`
-
-###### `write(file, buffer) -> success message`
-
-### Setup
-#### `.env` requirements
-* `PORT` - Port Number
-* `SERVER_URL` - http://localhost:`PORT`
 
 #### Running the app
 * `node server.js`
@@ -46,4 +30,4 @@
     * Test for event handlers
 
 #### UML
-![socket.io UML](assets/socket-io.jpeg)
+
