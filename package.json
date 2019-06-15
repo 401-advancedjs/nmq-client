@@ -4,6 +4,7 @@
   "description": "Events Lab",
   "main": "logger.js",
   "scripts": {
+    "start": "node logger.js",
     "test": "jest --verbose --coverage",
     "lint": "eslint **/*.js",
     "jsdoc": "jsdoc -c ./docs/config/jsdoc.config.json"
